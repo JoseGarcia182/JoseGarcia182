@@ -7,7 +7,7 @@
 </div>
 <section>
   <p>
-    Tengo 21 años, Vivo en Argentina y estoy haciendo el curso de ingreso a Ingenieria en sistemas de la Universidad tecnologica nacional(UTN). Me gusta tanto EL desarrollo Back-end como el Front-end, en enero del 2022 termine un curso de desarrollo web full stack de digital house y ahora estoy buscando dar mis primeros pasos en el ambito laboral y ampliar mi desarrollo profesional.
+    Tengo 21 años, Vivo en Argentina y estoy haciendo el curso de ingreso a Ingenieria en sistemas de la Universidad tecnologica nacional(UTN). Me gusta tanto el desarrollo Back-end como el Front-end, en enero del 2022 termine un curso de desarrollo web full stack de digital house y ahora estoy buscando dar mis primeros pasos en el ambito laboral y ampliar mi desarrollo profesional.
   </p>
   <p>
     I am 21 years old, I live in Argentina, and I am taking the admission course for Systems Engineering at the National Technological University (UTN). I enjoy both Back-end and Front-end development, in January 2022 i completed a full-stack web development course at Digital House, and now I am looking to take my first steps in the job market and expand my professional development.
