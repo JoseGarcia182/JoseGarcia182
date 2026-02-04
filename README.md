@@ -39,10 +39,4 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
  
-  <h3>📈Stats:</h3>
-  
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JoseGarcia182&theme=ayu-light)](https://git.io/streak-stats)
-  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseGarcia182&show_icons=true&theme=blue)
-  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
